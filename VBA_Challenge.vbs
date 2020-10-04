@@ -100,7 +100,7 @@ Sub AllStocksAnalysisRefactored()
     'Formatting
     Worksheets("All Stocks Analysis").Activate
     Range("A3:C3").Font.FontStyle = "Bold"
-    Range("A3:C3").Borders(xlEdgeBottom).LineStyle = xlContinuous
+    Range("A3:C3").Borders(xlEdgeBottom).LineStyle = xlContinuousgit
     Range("B4:B15").NumberFormat = "#,##0"
     Range("C4:C15").NumberFormat = "0.0%"
     Columns("B").AutoFit
