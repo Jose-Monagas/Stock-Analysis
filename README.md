@@ -16,9 +16,9 @@ Orginally, we wrote code to run an analysis on the DQ Ticker, which was really i
 The following two images showcase the previous unrefactored code for the analysis with execution times of 0.797 and 0.875 sec for 2017 and 2018, respectively. 
 
 
-![Unrefactored code for 2017](Challenges/../../Unrefactored_code_2017.png)
+![Unrefactored code for 2017](Resources/Unrefactored_code_2017.png)
 
-![Unrefactored code for 2018](../Unrefactored_code_2018.png)
+![Unrefactored code for 2018](Resources/Unrefactored_code_2018.png)
 
 After refactoring our code, we were able to drop the execution time to 0.168 and  0.176 sec for 2017 and 2018. 
 
